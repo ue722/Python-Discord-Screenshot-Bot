@@ -13,7 +13,7 @@ from PIL import Image
 client = commands.Bot(command_prefix='!')
 client.remove_command('help')
 
-TOKEN = 'TOKEN'
+TOKEN = 'NzgwNjk5NjE1OTQyNTQxMzIz.X7y5LQ.LLmff8oWjj8RdSoNXchDSSLTbI4'
 
 # ---------------------------------------
 # Bot Initialization
